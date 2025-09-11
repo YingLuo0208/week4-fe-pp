@@ -10,6 +10,7 @@ const PageLinks = ({ parentClass, itemClass }) => {
     { href: "/about", text: "About" },
     { href: "/services", text: "Services" },
     { href: "/tours", text: "Tours" },
+    { href: "/register", text: "Register" },
   ];
 
   return (
